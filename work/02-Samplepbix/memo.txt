@@ -1,0 +1,2 @@
+Power BI のサンプルを入手する
+https://docs.microsoft.com/ja-jp/power-bi/create-reports/sample-datasets

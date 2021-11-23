@@ -1,0 +1,2 @@
+大規模PowerBIのベストプラクティス覚書
+https://qiita.com/saboyutaka/items/7d20f7b1949d8c8451fc
